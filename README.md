@@ -1,5 +1,5 @@
 # minishell
 
-made with @nicolasgasco
+made with @nicolasgasco https://github.com/nicolasgasco
 
 constructing...
